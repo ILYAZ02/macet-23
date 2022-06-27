@@ -1,0 +1,219 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.str{
+    background-image: url('../img/IMAGE.png');
+    height: 110vh;
+    background-size: cover;
+}
+.menu :nth-child(2){
+    margin-left: 48rem;
+}
+.menu ul{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    font-size: 24px;
+    list-style: none;  
+}
+.menu a{
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+}
+.menu li{
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+.odin h1{
+    font-size: 12rem;
+    font-weight: 100;
+    padding: 0;
+    margin: 0;
+    margin-top: 15rem;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+.odin p{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 2rem;
+    padding-top: 7rem;
+}
+.odin button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 52rem;
+    margin-top: 10rem;
+    width: 250px;
+    height: 60px;
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 20px;
+    color: #faf3f3;
+    border-radius: 15px;
+
+}
+
+ .dva{
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-image: url(../img/s.png);
+    height: 120vh;
+    background-size: cover;
+}
+.zagol2 h1{
+    margin: 0;
+    padding-top: 35rem;
+ font-size: 8rem;
+ color: rgb(242, 247, 250);
+
+}
+.zagol2  p{
+    margin-top: 5rem;
+    font-size: 2rem;
+    color: #f9ffff;
+}
+.zagol2 button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10rem;
+    width: 250px;
+    height: 60px;
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 20px;
+    color: #feffff;
+    border-radius: 15px;
+}
+
+.tri{
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-image: url(../img/jj.png);
+    height: 120vh;
+    background-size: cover;
+}
+.zagol3 h1{
+    margin: 0;
+    padding-top: 20rem;
+    font-size: 8rem;
+   color: azure;
+}
+.zagol3 p{
+    margin-top: 5rem;
+    font-size: 2rem;
+    color: #f3f5f5;
+}
+.zagol3 button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 6rem;
+    width: 250px;
+    height: 60px;
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 15px;
+}
+.chet{
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-image: url(../img/aa.png);
+    height: 120vh;
+    background-size: cover;
+}
+.zagol4 h1{
+    margin: 0;
+    padding-top: 20rem;
+    font-size: 8rem;
+   color: azure;
+}
+.zagol4 p{
+    font-size: 2rem;
+    color: #ffffff;
+}
+.zagol4 button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10rem;
+    width: 250px;
+    height: 60px;
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 20px;
+    color: #fcfcfc;
+    border-radius: 15px;
+}
+.five{
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-image: url(../img/vv.png);
+    height: 120vh;
+    background-size: cover;
+}
+.zagol5 h1{
+    margin: 0;
+    padding-top: 20rem;
+    font-size: 8rem;
+   color: azure;
+}
+.zagol5 p{
+    margin-top: 5rem;
+    font-size: 2rem;
+    color: #ffffff;
+}
+.zagol5 button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10rem;
+    width: 250px;
+    height: 60px;
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 20px;
+    color: #feffff;
+    border-radius: 15px;
+}
+.zaver{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    height: 65vh;
+    background-color: black;
+}
+.zagol6 h1{
+    margin: 0;
+    padding-top: 10rem;
+    font-size: 5rem;
+   color: azure;
+}
+.zagol6 p{
+    font-size: 2rem;
+    color: #ffffff;
+}
+.zagol6 button{
+    font-family: 'Times New Roman', Times, serif;
+    width: 185px;
+    height: 42px;
+margin-top: 5rem;
+    border-radius: 25px;
+}
+.zav{
+    color: #ffffff;
+    display: flex;
+    justify-content: flex-start;
+    margin-left:120px;
+   align-items: center;
+   gap: 1rem;
+   padding-top: 5rem;
+
+}
+.zav :nth-child(3){
+    margin-left: 55rem;
+} 
